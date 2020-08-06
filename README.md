@@ -1,7 +1,9 @@
 ## Hi, nice to see you.
 
 Welcome to my page!
+
 Hi I am **Yash Gupta**, Full Stack Developer from Kanpur, India. 
+
 I love Javascript, especially React and have been developing applications using JS for couple of years now.
 
 ## My Projects
