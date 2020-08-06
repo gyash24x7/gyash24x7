@@ -2,10 +2,12 @@
 
 Welcome to my page!
 Hi I am **Yash Gupta**, Full Stack Developer from Kanpur, India. 
+I love Javascript, especially React and have been developing applications using JS for couple of years now.
 
-### My Toolbox
+## My Projects
 
-![React & React Native](https://yashgupta.dev/static/e1d7aba13114edc15d18914fec189ba3/e1953/react-logo.png)
-![NodeJS](https://yashgupta.dev/static/b92fcf8675b9fd97c4daf2df4a22daff/fc741/nodejs-logo-light.png)
-![NestJS](https://yashgupta.dev/static/999d4acfd788b3c13956c7e2de584dbf/43c40/nestjs-logo.png)
-![NextJS](https://yashgupta.dev/static/11863dfd9f2dec12f3edd97ff08074af/63d84/nextjs-logo.png)
+### Literature
+
+Literature or Canadian Fish is a 6 player card game played in teams of 3. Each team aims to score as many half-sets as possible. The team which scores more half sets wins. I created this multiplayer game using NestJS with GraphQL on server-side and React on client side. I also created a Mobile Application for the same using Ionic.
+
+[Check out the github repo!](https://github.com/gyash24x7/littplay)
