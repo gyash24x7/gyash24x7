@@ -19,3 +19,15 @@ Literature or Canadian Fish is a 6 player card game played in teams of 3. Each t
 [Download Apk Now](https://github.com/gyash24x7/littplay/releases/download/v1.0/literature-v1.0.apk)     
 
 [Open in Browser](https://literature.yashgupta.dev)
+
+
+### Hacknotes
+
+Hacknotes is a intuitive, light-weight application to jot down youtr ideas and tasks. Just write it down. It's cross platform app and syncs across various platforms. Available on Android, iOS and Web.
+
+[Check out the github repo!](https://github.com/gyash24x7/hacknotes)
+
+[Download Apk Now](https://github.com/gyash24x7/hacknotes/releases/download/v1.0/hacknotes.apk)     
+
+[Open in Browser](https://hacknotes.yashgupta.dev)
+
